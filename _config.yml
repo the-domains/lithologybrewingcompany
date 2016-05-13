@@ -1,0 +1,14 @@
+layout_spectrum: 0.9597207
+typography_spectrum: 0.6608806
+color:
+  saturation: 0.8104189
+  lightness: 0.764232
+  brandStrength: 0.8920515
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#ED6B23'
+    - '#003B5A'
+    - '#9D9FA1'
+  rhythmicContrast: 0.3614393
+name: LithologyBrewingCompany
