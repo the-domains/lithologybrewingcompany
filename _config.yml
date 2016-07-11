@@ -1,4 +1,4 @@
-name: LithologyBrewingCompany
+name: Lithology Brewing
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.2719216
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F2F7E8'
-    - '#4EC6E0'
-    - '#31545D'
-    - '#030303'
-    - '#EF6B22'
-  brandStrength: 0.4720149
-  lightness: 0.71875
-  saturation: 0.8115672
-  rhythmicContrast: 0.8754664
+    - '#ffffff'
+    - '#fb4700'
+    - '#101531'
+    - '#777a8e'
+    - '#b7b9c4'
+  brandStrength: 0.6875
+  lightness: 0.6875
+  saturation: 0.9375
+  rhythmicContrast: 0
 purpose: []
