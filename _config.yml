@@ -1,7 +1,33 @@
-name: Lithology Brewing
-favicon: null
-layout_spectrum: 0.76874
 typography_spectrum: 0.34057
+color:
+  brandColors:
+    - '#ffffff'
+    - '#fb4700'
+    - '#101531'
+    - '#777a8e'
+    - '#b7b9c4'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.1875
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.76874
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5191a43e-9855-466c-8516-d66a171d022b.jpg
+name: Lithology Brewing
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccb2c6de-8a45-4f50-9e00-866ac763f8ce.jpg
 collections:
   - index:
       path: /
@@ -15,27 +41,4 @@ collections:
       format: rss
       number: 10
 title: Lithology Brewing
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#fb4700'
-    - '#101531'
-    - '#777a8e'
-    - '#b7b9c4'
-  brandStrength: 1
-  lightness: 0
-  saturation: 0.1875
-  rhythmicContrast: 0
 purpose: []
