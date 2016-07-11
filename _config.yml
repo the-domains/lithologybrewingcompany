@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.6608806
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.2719216
 color:
-  saturation: 0.8104189
-  brandStrength: 0.8920515
-  lightness: 0.764232
+  saturation: 0.8115672
+  brandStrength: 0.9720149
+  lightness: 0.71875
   brandColors:
-    - '#FFFFFF'
-    - '#000000'
-    - '#ED6B23'
-    - '#003B5A'
-    - '#9D9FA1'
-  rhythmicContrast: 0.9403866
-layout_spectrum: 0.9597207
+    - '#F2F7E8'
+    - '#4EC6E0'
+    - '#31545D'
+    - '#030303'
+    - '#EF6B22'
+  rhythmicContrast: 0.7565299
+layout_spectrum: 1
 name: LithologyBrewingCompany
