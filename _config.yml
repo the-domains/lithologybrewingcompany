@@ -1,3 +1,7 @@
+name: LithologyBrewingCompany
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.2719216
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Lithology Brewing
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8115672
-  brandStrength: 0.4720149
-  lightness: 0.71875
   brandColors:
     - '#F2F7E8'
     - '#4EC6E0'
     - '#31545D'
     - '#030303'
     - '#EF6B22'
+  brandStrength: 0.4720149
+  lightness: 0.71875
+  saturation: 0.8115672
   rhythmicContrast: 0.8754664
-typography_spectrum: 0.2719216
-layout_spectrum: 1
-name: LithologyBrewingCompany
+purpose: []
